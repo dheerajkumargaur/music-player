@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+
+p {
+  margin: 0;
+}
+
+.artist {
+  width: 882px;
+  height: 453px;
+  margin-left: 16vw;
+  margin-top: -100vh;
+  transform: scale(0.7);
+  padding: 210px 495px 109px 49px;
+  box-sizing: border-box;
+  background-image: url(/images/artist.svg);
+}
+.verified-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: max-content;
+  box-sizing: border-box;
+  padding-bottom: 15px;
+}
+.verified {
+  width: 30px;
+  height: 100%;
+}
+
+.verified-artist {
+  color: rgba(207, 197, 197, 1);
+  font-size: 14px;
+  line-height: 14px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+.michael-jackson {
+  color: rgba(246, 246, 246, 1);
+  font-size: 40px;
+  line-height: 40px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  width: max-content;
+  padding-bottom: 35px;
+}
+.group-184 {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 100%;
+  box-sizing: border-box;
+}
+._-27852501-monthly-list {
+  color: rgba(246, 246, 246, 1);
+  font-size: 14px;
+  line-height: 14px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}

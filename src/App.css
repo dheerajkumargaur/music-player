@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  background-color: #000000;
+  background-image: url(/images//background.svg);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  align-items: flex-start;
+  place-items: flex-start;
+}
+.app {
+  margin-top: -50vh ;
+}
